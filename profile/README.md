@@ -13,7 +13,7 @@ We are **MaaSec**, an ACM Student Chapter based in Maastricht, Netherlands, at *
 Interested in cybersecurity? Whether you're a beginner or a seasoned hacker, MaaSec is the perfect place to grow your skills and connect with like-minded individuals.  
 
 Visit our website: [maasec.com](https://maasec.com)  
-Join our Discord: [Invite Link](https://discord.gg/fX2mjUCJ)
+Join our Discord: [Invite Link](https://discord.gg/ghpWe7wawV)
 
 Stay tuned for updates, tools, and events as we build our community!
 
