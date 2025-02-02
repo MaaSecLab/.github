@@ -1,6 +1,6 @@
 # Welcome to MaaSec! 👾
 
-We are **MaaSec**, a future ACM Student Chapter based in Maastricht, Netherlands, at **Maastricht University**. Our members are computer science students passionate about **cybersecurity**, **CTF challenges**, and building technical expertise in the ever-evolving field of security.
+We are **MaaSec**, an ACM Student Chapter based in Maastricht, Netherlands, at **Maastricht University**. Our members are computer science students passionate about **cybersecurity**, **CTF challenges**, and building technical expertise in the ever-evolving field of security.
 
 ## What We Do
 
